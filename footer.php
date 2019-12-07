@@ -145,7 +145,7 @@
                        
 
                          <div class="container">
-                                     <div class="copy"><p class="foot_p">© 2017 Charupath Haatekhori School. All Rights Reserved <a href="" target="_blank" style="color:#ff6c2c; ">Webmail</a> &nbsp;
+                                     <div class="copy"><p class="foot_p">© <?php echo Date('Y'); ?>  Charupath Haatekhori School. All Rights Reserved <a href="" target="_blank" style="color:#ff6c2c; ">Webmail</a> &nbsp;
 				
 				 Developed By:<a href="wwww.bdsoft.biz" style="color:#fff; ">BDSoft IT Solutions</a></p></div>
                         </div>
